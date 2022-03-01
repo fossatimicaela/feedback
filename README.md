@@ -34,6 +34,6 @@ Material UI
 
 #### Developer: 
 
-##### Micaela Fossati  | [Linkedin](https://www.linkedin.com/in/vmfossati/) 
+##### Micaela Fossati | [Linkedin](https://www.linkedin.com/in/vmfossati/) 
 
 #
