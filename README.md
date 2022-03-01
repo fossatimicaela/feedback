@@ -1,7 +1,7 @@
 # FeedbackPage
 
 
-###### Development of a SPA to add feedback on certain products. If you want to test it you should install the dependencies and then run npm start 😊 
+###### Development of a SPA to add feedback on certain products. If you want to test it you should install the dependencies and then run npm start 😊 deploy 🔜
 
 #
 
