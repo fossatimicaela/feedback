@@ -1,7 +1,14 @@
-# FeedbackPage
+# FeedbackPage 💫
 
 
-###### Development of a SPA to add feedback on certain products. If you want to test it you should install the dependencies and then run npm start 😊 deploy 🔜
+### Development of a SPA to add feedback on certain products. In order to test it you should:
+-In `api` create a new file: `.env`:
+```
+DB_USER=postgresUser
+DB_PASSWORD=postgresPassword
+DB_HOST=localhost
+```
+-Install all dependencies and then run npm start 😊 deploy 🔜
 
 #
 
